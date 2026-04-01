@@ -1,0 +1,16 @@
+Detailed Error Log:
+--------------------
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> http://jogandocomelas.com.br/rosana-augusto-jogadora-do-santos-e-da-selecao-brasileira-anuncia-aposentadoria/
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> http://maquinadoesporte.uol.com.br/artigo/por-time-feminino-corinthians-faz-parceria-com-gremio-osasco-audax_29655.html
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> http://mngr.saopaulofc.net/media/164076/spfc_book_futebol_feminino_paulista_1997.pdf
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> http://paginasmemoria.cruzeirodosul.inf.br/paginas/2000/12/18/20001218028520espa0800cruz.pdf
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> http://sportsillustrated.cnn.com/soccer/wusa/2001/championship/news/2001/08/25/wusa_championship/
+[CONNECTION FAILED: [Errno 11002] getaddrinfo failed] -> http://www.bayareasportsdrive.com/soccer/sissi.htm
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> http://www.bolabrasilmulher.com.br/conheca-a-chu-santos-atacante-convocada-pela-tecnica-emily-lima/
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> http://www.femininodobrasil.com/2017/02/chu-santos-uma-jogadora-completa.html
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> http://www.futeboldabahia.com.br/Feminino.html
+[CONNECTION FAILED: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)] -> https://dados.museudofutebol.org.br/#/tipo:personalidades/614464,Rosana
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> https://timetravel.mementoweb.org/list/20161204/http://www.sports-reference.com/olympics/countries/BRA/summer/1996/FTB/
+[CONNECTION FAILED: [Errno 11001] getaddrinfo failed] -> https://vincisports.com.br/atleta/130/maria-luiza-schwaizer
+[TIMEOUT] -> https://www.uefa.com/teamsandplayers/players/player=250107154/profile
+[TIMEOUT] -> https://www.uefa.com/teamsandplayers/players/player=250107798/profile
