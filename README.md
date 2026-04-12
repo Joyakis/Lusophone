@@ -19,7 +19,7 @@ Article "ARTICLE TITLE" (Page ID PAGEID) was created at MONTH DAY, YEAR.
 
 ## Task 2 - Python URL Status Checker
 
-**File:** `task2.py`
+**File:** `Task_2.py`
 
 **Input CSV:** `Task 2 - Intern.csv`
 
@@ -41,4 +41,3 @@ python task2.py
 **Behavior:**
 - Uses a browser-like `User-Agent`.
 - Handles BOM issues with `utf-8-sig`.
-- Logs detailed failures to `error_details.log` while printing `(ERROR)` in output.
