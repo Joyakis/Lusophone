@@ -37,7 +37,7 @@ def main(csv_path: str) -> None:
             status = fetch_status(url)
             
         except urllib.error.HTTPError as e:
-            # The server was reached, but returned an error code (e.g., 404, 403)
+           
             status = f"HTTP {e.code}"
             
         except urllib.error.URLError as e:
