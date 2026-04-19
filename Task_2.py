@@ -41,8 +41,7 @@ def main(csv_path: str) -> None:
             status = f"HTTP {e.code}"
             
         except urllib.error.URLError as e:
-            # The server could not be reached (e.g., dead link, blocked connection)
-            # We check if the specific reason was a network timeout
+        
             if isinstance(e.reason, socket.timeout):
                 status = "TIMEOUT"
             else:
